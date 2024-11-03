@@ -4,7 +4,7 @@ This is my first machine learning assignment. The assignment (group assignment) 
 
 The study paper we selected was:
 
-Kaggle (//www.kaggle.com/datasets/pentakrishnakishore/diabetes-csv/data)
+Kaggle (www.kaggle.com/datasets/pentakrishnakishore/diabetes-csv/data)
 Name: Diabetes Prediction Dataset
 All the details of the csv file are written on the kaggle website.
 
